@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rhqud\\OneDrive\\Desktop\\Lec04_Array_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E314E495-DF27-404D-BC68-6006DCB8CDCD}|Car_Class\\Car_Class.vcxproj|C:\\Users\\rhqud\\OneDrive\\Desktop\\Lec04_Array_Class\\Car_Class\\Sportscar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E314E495-DF27-404D-BC68-6006DCB8CDCD}|Car_Class\\Car_Class.vcxproj|solutionrelative:Car_Class\\Sportscar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E314E495-DF27-404D-BC68-6006DCB8CDCD}|Car_Class\\Car_Class.vcxproj|C:\\Users\\rhqud\\OneDrive\\Desktop\\Lec04_Array_Class\\Car_Class\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E314E495-DF27-404D-BC68-6006DCB8CDCD}|Car_Class\\Car_Class.vcxproj|solutionrelative:Car_Class\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E314E495-DF27-404D-BC68-6006DCB8CDCD}|Car_Class\\Car_Class.vcxproj|C:\\Users\\rhqud\\OneDrive\\Desktop\\Lec04_Array_Class\\Car_Class\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E314E495-DF27-404D-BC68-6006DCB8CDCD}|Car_Class\\Car_Class.vcxproj|solutionrelative:Car_Class\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B949E722-1B8A-4D1A-AE80-945C755A6837}|Polynomial_Class\\Polynomial_Class.vcxproj|C:\\Users\\rhqud\\OneDrive\\Desktop\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B949E722-1B8A-4D1A-AE80-945C755A6837}|Polynomial_Class\\Polynomial_Class.vcxproj|solutionrelative:Polynomial_Class\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B949E722-1B8A-4D1A-AE80-945C755A6837}|Polynomial_Class\\Polynomial_Class.vcxproj|C:\\Users\\rhqud\\OneDrive\\Desktop\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B949E722-1B8A-4D1A-AE80-945C755A6837}|Polynomial_Class\\Polynomial_Class.vcxproj|solutionrelative:Polynomial_Class\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sportscar.h",
+              "DocumentMoniker": "C:\\Users\\rhqud\\OneDrive\\Desktop\\Lec04_Array_Class\\Car_Class\\Sportscar.h",
+              "RelativeDocumentMoniker": "Car_Class\\Sportscar.h",
+              "ToolTip": "C:\\Users\\rhqud\\OneDrive\\Desktop\\Lec04_Array_Class\\Car_Class\\Sportscar.h",
+              "RelativeToolTip": "Car_Class\\Sportscar.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-07T12:11:53.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cpp",
+              "DocumentMoniker": "C:\\Users\\rhqud\\OneDrive\\Desktop\\Lec04_Array_Class\\Car_Class\\Car.cpp",
+              "RelativeDocumentMoniker": "Car_Class\\Car.cpp",
+              "ToolTip": "C:\\Users\\rhqud\\OneDrive\\Desktop\\Lec04_Array_Class\\Car_Class\\Car.cpp",
+              "RelativeToolTip": "Car_Class\\Car.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T11:28:28.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.h",
+              "DocumentMoniker": "C:\\Users\\rhqud\\OneDrive\\Desktop\\Lec04_Array_Class\\Car_Class\\Car.h",
+              "RelativeDocumentMoniker": "Car_Class\\Car.h",
+              "ToolTip": "C:\\Users\\rhqud\\OneDrive\\Desktop\\Lec04_Array_Class\\Car_Class\\Car.h",
+              "RelativeToolTip": "Car_Class\\Car.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-07T11:20:09.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Polynomial.h",
+              "DocumentMoniker": "C:\\Users\\rhqud\\OneDrive\\Desktop\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.h",
+              "RelativeDocumentMoniker": "Polynomial_Class\\Polynomial.h",
+              "ToolTip": "C:\\Users\\rhqud\\OneDrive\\Desktop\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.h",
+              "RelativeToolTip": "Polynomial_Class\\Polynomial.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-07T11:14:10.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Polynomial.cpp",
+              "DocumentMoniker": "C:\\Users\\rhqud\\OneDrive\\Desktop\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.cpp",
+              "RelativeDocumentMoniker": "Polynomial_Class\\Polynomial.cpp",
+              "ToolTip": "C:\\Users\\rhqud\\OneDrive\\Desktop\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.cpp",
+              "RelativeToolTip": "Polynomial_Class\\Polynomial.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T11:13:59.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

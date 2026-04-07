@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Sportcar.obj",
+            "outputs": [
+                "x64\\Debug\\Sportcar.h_524FBB2A5EAF4C66.ifc.dt.module.json",
+                "x64\\Debug\\Sportcar.h_524FBB2A5EAF4C66.ifc.dt.d.json",
+                "x64\\Debug\\Sportcar.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\rhqud\\OneDrive\\Desktop\\Lec04_Array_Class\\Car_Class\\Sportcar.h",
+                    "source-path": "c:\\users\\rhqud\\onedrive\\desktop\\lec04_array_class\\car_class\\sportcar.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
