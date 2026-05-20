@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\LEC10_Graph\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{448A620D-C627-4C63-B02F-487CB4172151}|Maze\\Maze.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\LEC10_Graph\\Maze\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{448A620D-C627-4C63-B02F-487CB4172151}|Maze\\Maze.vcxproj|solutionrelative:Maze\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448A620D-C627-4C63-B02F-487CB4172151}|Maze\\Maze.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\LEC10_Graph\\Maze\\Location2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{448A620D-C627-4C63-B02F-487CB4172151}|Maze\\Maze.vcxproj|solutionrelative:Maze\\Location2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{524B8B84-1DD0-45F5-B303-491F425B8746}|LEC10_Graph\\LEC10_Graph.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\LEC10_Graph\\LEC10_Graph\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{524B8B84-1DD0-45F5-B303-491F425B8746}|LEC10_Graph\\LEC10_Graph.vcxproj|solutionrelative:LEC10_Graph\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -18,24 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Location2D.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\LEC10_Graph\\Maze\\Location2D.h",
+              "RelativeDocumentMoniker": "Maze\\Location2D.h",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\LEC10_Graph\\Maze\\Location2D.h",
+              "RelativeToolTip": "Maze\\Location2D.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-20T01:35:35.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\LEC10_Graph\\Maze\\main.cpp",
+              "RelativeDocumentMoniker": "Maze\\main.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\LEC10_Graph\\Maze\\main.cpp",
+              "RelativeToolTip": "Maze\\main.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-20T01:35:22.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\LEC10_Graph\\LEC10_Graph\\main.cpp",
               "RelativeDocumentMoniker": "LEC10_Graph\\main.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\LEC10_Graph\\LEC10_Graph\\main.cpp",
               "RelativeToolTip": "LEC10_Graph\\main.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-14T05:19:08.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AdjMatGraph.h",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\LEC10_Graph\\LEC10_Graph\\AdjMatGraph.h",
               "RelativeDocumentMoniker": "LEC10_Graph\\AdjMatGraph.h",
