@@ -1,3 +1,5 @@
 ﻿  main.cpp
-C:\Users\USER\Documents\data-structure-lab-2026-4\LEC10_Graph\Maze\main.cpp(23,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  Maze.vcxproj -> C:\Users\USER\Documents\data-structure-lab-2026-4\LEC10_Graph\x64\Debug\Maze.exe
+C:\Users\USER\Documents\data-structure-lab-2026-4\LEC10_Graph\Maze\main.cpp(136,13): error C2561: 'main': 함수는 값을 반환해야 합니다.
+  C:\Users\USER\Documents\data-structure-lab-2026-4\LEC10_Graph\Maze\main.cpp(44,5):
+  'main' 선언을 참조하십시오.
+  
