@@ -18,6 +18,12 @@
     <ClInclude Include="AdjMatGraph.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="WGraphPrim.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="WGraphDijkstra.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">

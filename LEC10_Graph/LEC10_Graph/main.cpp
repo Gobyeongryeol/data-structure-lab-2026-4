@@ -1,4 +1,6 @@
 #include "AdjMatGraph.h"
+#include "WGraphPrim.h"
+#include "WGraphDijkstra.h"
 
 int main()
 {
@@ -34,7 +36,7 @@ int main()
 
     WGraph wg;
 
-    wg.load("C:/Users/USER/Documents/data-structure-lab-2026-4/LEC10_Graph/graph.txt");
+    wg.load("C:/Users/USER/Documents/data-structure-lab-2026-4/Lec10_Graph/graph.txt");
 
     printf("입력 그래프: graph.txt\n");
     wg.display();
@@ -42,11 +44,24 @@ int main()
 
     WGraphMST mst;
 
-    mst.load("C:/Users/USER/Documents/data-structure-lab-2026-4/LEC10_Graph/graph.txt");
+    mst.load("C:/Users/USER/Documents/data-structure-lab-2026-4/Lec10_Graph/graph.txt");
 
     printf("MST By Kruskal's Algorithm\n");
 
     mst.Kruskal();
+  
+  
+    WGraphPrim t;
+    t.load("C:/Users/USER/Documents/data-structure-lab-2026-4/Lec10_Graph/0605.txt");
+    printf("MST By Prim's Algorithm\n");
+    t.Prim(0);
+
+    printf("\n");
+
+    WGraphDijkstra h;
+    h.load("C:/Users/USER/Documents/data-structure-lab-2026-4/Lec10_Graph/0605.txt");
+    printf("Shortest Path By Dijkstra Algorithm\n");
+    h.ShortestPath(0);
 
     return 0;
 }
